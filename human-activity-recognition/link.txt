@@ -1,0 +1,4 @@
+https://www.kaggle.com/datasets/uciml/human-activity-recognition-with-smartphones/code
+
+
+https://www.kaggle.com/code/keerthiceg/har-simple-ann-pytorch
