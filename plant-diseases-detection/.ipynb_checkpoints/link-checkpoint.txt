@@ -1,6 +1,0 @@
-https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
-
-
-https://www.kaggle.com/code/omchoksi04/leafdiseasedetection
-
-https://www.kaggle.com/code/ayaalsayed/dm-final-04a5e1
